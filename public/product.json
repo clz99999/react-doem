@@ -1,0 +1,5 @@
+[
+  {"id":1,"productName":"机器人","price":1000,"imgSrc":""},
+  {"id":2,"productName":"机器猫","price":2000,"imgSrc":""},
+  {"id":3,"productName":"飞行棋","price":3000,"imgSrc":""}
+]
